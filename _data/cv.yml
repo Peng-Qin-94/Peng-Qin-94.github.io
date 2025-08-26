@@ -1,12 +1,14 @@
-- title: General Information
+- title: Basics
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Peng Qin
     - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: 1994-01-11
+    - name: Title
+      value: Dr.
+    - name: Email
+      value: p.qin@tue.nl      
 
 - title: Education
   type: time_table
