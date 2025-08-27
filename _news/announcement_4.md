@@ -1,33 +1,15 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2025-08-30 20:00:00+0800
+title: Invited Presentation at Building and Vehilce Air Environment Seminar of Young Scholars
+date: 2025-08-20 16:00:00-0400
 inline: false
 related_posts: false
 ---
+#### 报告题目： 基于CFD的街道峡谷中理想化污染源建模方法的有效性评估
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+> 理想化污染源（如点源与线源）在城市交通排放模拟中被广泛采用。然而，关于此类理想化污染源能否，以及在多大程度上能够再现街道峡谷内真实汽车污染源（静止或运动状态）所导致的污染物扩散特征，学术界尚无定论。本报告基于 CFD 对街道峡谷污染物扩散中理想化污染源的准确性进行了系统评估，包括：1）比较静态理想化点源与静态汽车源、运动汽车源在街道峡谷中对污染物扩散的影响；2）在交通拥堵条件下，对比静态理想化线源与多辆汽车源模式的表现。该研究有助于提升街道峡谷内污染物扩散预测的准确性，从而为降低城市居民的污染物暴露风险提供科学依据。
 
----
+🗓 时间：**2025年8月31日 20:00-22:00 （北京时间）**
+📍 腾讯会议：**558 888 977**
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
-
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
----
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+![Poster](/assets/img/news_pictures/1.svg)

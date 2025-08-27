@@ -4,7 +4,7 @@
     "Title": "Dr.",
     "image": "",
     "email": "p.qin@tue.nl",
-    "ORCID": "https://orcid.org/0000-0001-7408-7522",
+    "url": "https://orcid.org/0000-0001-7408-7522",
     "summary": "Peng Qin is a highly motivated researcher with a PhD in Building Physics and extensive expertise in computational fluid dynamics (CFD), urban ventilation, indoor and outdoor air quality, particle/gas dispersion modelling, and vehicle emissions modelling. His research spans from outdoor urban climate challenges to indoor air quality — from pollutant dispersion and thermal studies in urban areas to COVID-related indoor ventilation and aerosol dispersion studies. He is adept at large-scale numerical modelling in UNIX/Linux environments using ANSYS Fluent/OpenFOAM. He is passionate about addressing environmental health issues (e.g. contaminant exposure due to limited ventilation, urban overheating, and indoor/outdoor air quality) and supporting government and stakeholder policy and decision-making.",
     "location": {
       "address": "De Zaale",
@@ -216,13 +216,18 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Dutch",
+      "fluency": "Elementary",
       "icon": ""
     }
   ],
