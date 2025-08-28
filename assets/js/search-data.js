@@ -438,11 +438,16 @@ ninja.data = [{
           title: 'Officially a doctor!!!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_6/";
+              window.location.href = "/news/announcement_7/";
             },},{id: "news-cobee-2025-6-10-july-2025-offically-starts-at-eindhoven-the-netherlands-fire",
           title: 'COBEE 2025 (6-10 July 2025) offically starts at Eindhoven, the Netherlands! :fire:',
           description: "",
-          section: "News",},{id: "news-invited-presentation-at-building-and-vehilce-air-environment-seminar-of-young-scholars",
+          section: "News",},{id: "news-yearly-group-meeting-with-prof-ted-stathopoulos",
+          title: 'Yearly group meeting with Prof. Ted Stathopoulos',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_6/";
+            },},{id: "news-invited-presentation-at-building-and-vehilce-air-environment-seminar-of-young-scholars",
           title: 'Invited Presentation at Building and Vehilce Air Environment Seminar of Young Scholars',
           description: "",
           section: "News",handler: () => {
