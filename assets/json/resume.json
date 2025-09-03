@@ -86,7 +86,7 @@
       "highlights": ["Ventilaion, particle concentration, CFD, field measurement"]
     }
   ],
-  "Awards": [
+  "awards": [
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
@@ -137,6 +137,15 @@
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-clipboard-check"
+    }
+  ],
+  "conferences": [
+    {
+      "name": "CFD simulation of pollutant dispersion in a street canyon with realistic car sources: The potential of green infrastructure configurations",
+      "publisher": "Peng Qin, Alessio Ricci, Bert Blocken",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.1016/j.uclim.2025.102544",
+      "summary": "Urban Climate"
     }
   ],
   "publications": [
@@ -190,27 +199,121 @@
       "summary": "Building and Environment"
     }
   ],
-  "conferences": [
+  "projects": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "MItigation STrategies (MIST) for Airborne Infection Control",
+      "summary": "The MIST project focuses on identifying, developing, and promoting effective and evidence-based strategies to reduce the risk of airborne transmission of viruses in shared indoor spaces.",
+      "highlights": ["Ventilation", "Ventilation concepts", "Air sanitization", "CFD"],
+      "startDate": "2025-07",
+      "endDate": "Present",
+      "url": "https://www.mist-project.nl/"
+    },
+    {
+      "name": "Urban Heat, Air Quality and Vehicle Emission Studies",
+      "summary": "The goal of this project is to evaluate source modeling techniques to enhance the pollutant assessment in street canyons and provide recommendations for both the scientific community and practitioners in improving urban air quality.",
+      "highlights": ["Realsitic car source modeling", "Idealized source vs. realsitic source", "Green infrastructure for pollutant mitgation", "Thermal-pollutant nexus", "Wind-tunnel testing & CFD"],
+      "startDate": "2018-09",
+      "endDate": "2025-06"
+    },
+    {
+      "name": "Program for Pandemic Preparedness by Ventilation (P3Venti)",
+      "summary": "The P3Venti project leads, collects and distributes scientific research on the influence and potential impact of ventilation on aerogenic pathogen spread, exposure risk and infection control.",
+      "highlights": ["Ventilation", "Air cleaner", "Viral transmission", "CFD"],
+      "startDate": "2023-07",
+      "endDate": "2025-09",
+      "url": "https://www.p3venti.nl/"
+    },
+    {
+      "name": "Clean Air for Everyone (CLAIRE) Project",
+      "summary": "The CLAIRE project aims at exploring the potential of mechanical ventilation and air cleaning technologies to limit the adverse impacts of pandemics on health and well-being, with a primary focuses areas of primary schools and nursing homes.",
+      "highlights": ["Measurement method", "Risk assessment model", "Particle transmission", "Experiment"],
+      "startDate": "2022-09",
+      "endDate": "2023-06",
+      "url": "https://claireproject.nl/"
+    },
+    {
+      "name": "Case Studies of COVID-19, Ventilation and Air cleaning in various settings",
+      "summary": "These case stuides are volunteerary work conducted during the pandemic to combate the COVID-19.",
+      "highlights": ["Particle measurement", "Particle transmission", "Risk assessment model", "Air cleaner"],
+      "startDate": "2020-07",
+      "endDate": "2021-03"
+    },
+    {
+      "name": "Wind tunnel tests on different structures",
+      "summary": "These Wind tunnel tests are conducted by Peng Qin during his Master in Tongji University (Shanghai, China).",
+      "highlights": ["Force measurement", "Displacement measurement", "Aero-elastic full model testing"],
+      "startDate": "2015-09",
+      "endDate": "2018-07"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Urban Physics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Pollutant sispersion",
+        "Particle dispersion",
+        "Buildling ventilation",
+        "Wind comfort",
+        "Thermal comfort",
+        "Vegetaion impact",
+        "Vehicle aerodynamics"
+      ]
+    },
+    {
+      "name": "Research Methodology",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "CFD",
+        "Wind tunnel testing",
+        "Field measurement"
+      ]
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "Matlab",
+        "C++"
+      ]
+    },
+    {
+      "name": "computational Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "UNIX",
+        "Linux"
+      ]
+    },
+    {
+      "name": "CFD software",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "ANSYS Fluent",
+        "OpenFOAM"
+      ]
+    },
+    {
+      "name": "Data analysis",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "GIS"
+      ]
+    },
+    {
+      "name": "Experimental methods",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Wind tunnel testing",
+        "Field measurement"
       ]
     }
   ],
@@ -231,40 +334,26 @@
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Professor Bert Blocken",
+      "icon": "fa-solid fa-user",
+      "reference": "Institute of Mechanical, Process and Energy Engineering, Heriot-Watt University, Edinburgh EH14 4AS, United Kingdom."
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "name": "Associate Professor Twan van Hooff",
+      "icon": "fa-solid fa-user",
+      "reference": "Department of the Built Environment, Eindhoven University of Technology, 5600 MB Eindhoven, The Netherlands."
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Associate Professor Marcel Loomans",
+      "icon": "fa-solid fa-user",
+      "reference": "Department of the Built Environment, Eindhoven University of Technology, 5600 MB Eindhoven, The Netherlands."
+    },
+    {
+      "name": "Assistant Professor Alessio Ricci",
+      "icon": "fa-solid fa-user",
+      "reference": "Department of Science, Technology and Society, University School for Advanced Studies IUSS of Pavia, Italy."
     }
   ]
 }

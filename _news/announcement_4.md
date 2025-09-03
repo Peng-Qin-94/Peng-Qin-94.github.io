@@ -13,3 +13,5 @@ related_posts: false
 📍 腾讯会议：**558 888 977**
 
 ![Poster](/assets/img/news_pictures/1.svg)
+---
+[Certification](/assets/pdf/青年学者论坛证书_秦鹏.pdf)
