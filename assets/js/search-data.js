@@ -447,12 +447,15 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_6/";
-            },},{id: "news-invited-presentation-at-building-and-vehilce-air-environment-seminar-of-young-scholars",
-          title: 'Invited Presentation at Building and Vehilce Air Environment Seminar of Young Scholars',
+            },},{id: "news-invited-presentation-at-building-and-vehicle-air-environment-seminar-of-young-scholars",
+          title: 'Invited Presentation at Building and Vehicle Air Environment Seminar of Young Scholars',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
-            },},{id: "projects-project-1",
+            },},{id: "news-proposal-submitted-msca-postdoc-fellowship-2025-smile",
+          title: 'Proposal submitted - MSCA postdoc fellowship 2025! :smile:',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
