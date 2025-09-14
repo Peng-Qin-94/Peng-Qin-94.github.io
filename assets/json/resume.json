@@ -86,7 +86,7 @@
       "highlights": ["Ventilaion, particle concentration, CFD, field measurement"]
     }
   ],
-  "awards": [
+  "Awards": [
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
@@ -139,15 +139,6 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "conferences": [
-    {
-      "name": "CFD simulation of pollutant dispersion in a street canyon with realistic car sources: The potential of green infrastructure configurations",
-      "publisher": "Peng Qin, Alessio Ricci, Bert Blocken",
-      "releaseDate": "2025",
-      "url": "https://doi.org/10.1016/j.uclim.2025.102544",
-      "summary": "Urban Climate"
-    }
-  ],
   "publications": [
     {
       "name": "CFD simulation of pollutant dispersion in a street canyon with realistic car sources: The potential of green infrastructure configurations",
@@ -197,6 +188,100 @@
       "releaseDate": "2021",
       "url": "https://doi.org/10.1016/j.buildenv.2021.107659",
       "summary": "Building and Environment"
+    }
+  ],
+  "conferences": [
+    {
+      "name": "Ventilation and air cleaning in the context of infection risk: results from two large Dutch research projects",
+      "publisher": "Marcel Loomans, Peng Qin, et al.",
+      "releaseDate": "8-11 June 2025",
+      "summary": "Healthy Buildings Europe 2025, Reykjavík, Iceland"
+    },
+    {
+      "name": "CFD simulation of pollutant dispersion in a street canyon with realistic car sources: The potential of green infrastructure configurations",
+      "url": "https://cobee2025.cobee2025.org/",
+      "publisher": "Peng Qin, Alessio Ricci, Bert Blocken",
+      "releaseDate": "7-10 July 2025",
+      "location": "The Netherlands",
+      "summary": "The 6th International Conference on Building Energy and Environment (COBEE2025), Eindhoven, the Netherlands"
+    },
+    {
+      "name": "Experimental and CFD analysis of particle distribution in a controlled test facility: Impact of exhalation flow velocity and direction",
+      "url": "https://cobee2025.cobee2025.org/",
+      "publisher": "Peng Qin, Anneloes de Lange, Twan van Hooff, Roberto Traversari, Marcel Loomans",
+      "releaseDate": "7-10 July 2025",
+      "location": "The Netherlands",
+      "summary": "The 6th International Conference on Building Energy and Environment (COBEE2025), Eindhoven, the Netherlands"
+    },
+    {
+      "name": "Contaminant exposure in a pharmacy cleanroom with mixing ventilation: Impact of air-change rates",
+      "url": "https://www.rehva.eu/events/details/roomvent-2024",
+      "publisher": "Peng Qin, Twan van Hooff, Marcel Loomans, Roberto Traversari",
+      "releaseDate": "22-24 April 2024",
+      "summary": "The 17th ROOMVENT Conference (RoomVent2024), 2024, Stockholm, Sweden"
+    },
+    {
+      "name": "CFD-aided ventilation design for a large experimental chamber to study aerosol dispersion and removal",
+      "url": "https://www.rehva.eu/events/details/roomvent-2024",
+      "publisher": "Luyang Kang, Peng Qin, et al.",
+      "releaseDate": "22-24 April 2024",
+      "summary": "The 17th ROOMVENT Conference (RoomVent2024), 2024, Stockholm, Sweden"
+    },
+    {
+      "name": "Aerodynamic force prediction on the DrivAer model by CFD: Impact of the turbulence modeling approach",
+      "publisher": "Peng Qin, Alessio Ricci, Bert Blocken",
+      "releaseDate": " 27-31 August 2023",
+      "url": "https://www.icwe2023.com",
+      "summary": "The 16th International Conference on Wind Engineering (ICWE2023), Florence, Italy"
+    },
+    {
+      "name": "Experimental and numerical analysis of aerosol concentration in a multi-zone ventilated indoor environment",
+      "publisher": "Lili Xia, Peng Qin, et al.",
+      "releaseDate": " 27-31 August 2023",
+      "url": "https://www.icwe2023.com",
+      "summary": "The 16th International Conference on Wind Engineering (ICWE2023), Florence, Italy"
+    },
+    {
+      "name": "CFD simulations of pollutant dispersion in a street canyon: impact of idealized and realistic sources",
+      "publisher": "Peng Qin, Alessio Ricci, Bert Blocken",
+      "releaseDate": " 31 May - 1 June 2023",
+      "summary": "Burgers Symposium 2023, Lunteren, the Netherlands"
+    },
+    {
+      "name": "CFD simulation of pollutant dispersion in a street canyon: Impact of idealized and realistic sources",
+      "publisher": "Peng Qin, Alessio Ricci, Bert Blocken",
+      "releaseDate": " 20-23 May 2023",
+      "summary": "the 11th international conference on indoor air quality, ventilation & energy conservation in buildings (IAQVEC2023), Tokyo, Japan"
+    },
+    {
+      "name": "A database of scale model measurements for urban sound propagation in a moving atmosphere and first comparisons with simulations",
+      "publisher": "Cosnefroy, Peng Qin, et al.",
+      "releaseDate": "24-28 October 2022",
+      "summary": "The 24th International Congress on Acoustics (ICA2022), Gyeongju, Korea"
+    },
+    {
+      "name": "CFD simulations of pollutant dispersion in a street canyon: Impact of ideal versus realistic source emissions",
+      "publisher": "Peng Qin, Alessio Ricci, Bert Blocken",
+      "releaseDate": "25-29 July 2022 ",
+      "summary": "The 5th International Conference on Building Energy and Environment (COBEE2022), Montreal, Canada"
+    },
+    {
+      "name": "Reducing aerosol particle concentration in indoor spaces with mechanical ventilation and air cleaning: Evidences and challenges",
+      "publisher": "Lili Xia, Peng Qin, et al.",
+      "releaseDate": "25-29 July 2022 ",
+      "summary": "The 5th International Conference on Building Energy and Environment (COBEE2022), Montreal, Canada"
+    },
+    {
+      "name": "Analysis of the impact of computational grid parameters on 3d steady rans simulation results on the drivaer car model ",
+      "publisher": "Peng Qin, Alessio Ricci, Bert Blocken",
+      "releaseDate": "28-30 March 2022",
+      "summary": "The 6th 3AF International Conference on Applied Aerodynamics (AERO2022), Toulouse, France"
+    },
+    {
+      "name": "Using ventilation and air cleaning to reduce the aerosol concentration in a laboratory room",
+      "publisher": "Lili Xia, Peng Qin, et al.",
+      "releaseDate": "28-30 March 2022",
+      "summary": "The 6th 3AF International Conference on Applied Aerodynamics (AERO2022), Toulouse, France"
     }
   ],
   "projects": [
