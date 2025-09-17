@@ -5,7 +5,7 @@ description: PhD project
 img: assets/img/3.jpg
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 **A systematic framework for optimising CFD settings to model realistic vehicle geometry**
@@ -45,6 +45,6 @@ giscus_comments: true
     </div>
 </div>
 <div class="caption">
-        
+
 </div>
 
