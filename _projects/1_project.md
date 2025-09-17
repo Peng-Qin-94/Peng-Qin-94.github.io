@@ -20,7 +20,7 @@ Sub-project WP3.3 will advance the state-of-the-art by incorporating time-depend
 The results from WP3 will provide critical input for WP4 (Use Cases) to ensure practical implementation and for WP5 (Strategies for Infection Control) to develop comprehensive strategies and guidelines against the spread of airborne respiratory diseases.
 
 
-</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/MIST.svg" title="example image" class="img-fluid rounded z-depth-1" %}
