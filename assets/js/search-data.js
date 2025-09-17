@@ -465,6 +465,11 @@ ninja.data = [{
           description: "PhD project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-pandemic-preparedness-and-ventilation-program-p3venti",
+          title: 'Pandemic Preparedness and Ventilation Program (P3Venti)',
+          description: "https://www.p3venti.nl/",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{
         id: 'social-email',
         title: 'email',
